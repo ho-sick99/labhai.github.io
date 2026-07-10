@@ -1,10 +1,38 @@
 {
   "data": [
     {
-      "0": "Surprise-Guided MergeSort: Budget-Efficient Pairwise Ranking via VLM-Driven Question Prioritization",
+      "0": "CSWinUNETR: Segmentation of Thin Anatomical Structures in Medical Images",
+      "1": "J Moon, H Chung, I Jang",
+      "2": "MICCAI, 2026",
+      "3": "https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=1rBh9xkAAAAJ&sortby=pubdate&citation_for_view=1rBh9xkAAAAJ:fPk4N6BV_jEC",
+      "4": "2026"
+    },
+    {
+      "0": "When, Where, and How: Adaptive Binning for Tabular Self-Supervised Learning",
+      "1": "D Kim, H Chung, I Jang",
+      "2": "MICCAI, 2026",
+      "3": "https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=1rBh9xkAAAAJ&sortby=pubdate&citation_for_view=1rBh9xkAAAAJ:u_35RYKgDlwC",
+      "4": "2026"
+    },
+    {
+      "0": "OTCHA: Optimal Transport-driven Confidence-aware Latent Hub Alignment for Multi-View Medical Image Classification",
+      "1": "J Yang, H Chung, I Jang",
+      "2": "MICCAI, 2026",
+      "3": "https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=1rBh9xkAAAAJ&sortby=pubdate&citation_for_view=1rBh9xkAAAAJ:zA6iFVUQeVQC",
+      "4": "2026"
+    },
+    {
+      "0": "Surprise-Guided MergeSort: Budget-Efficient Human-in-the-Loop Ranking via Adaptive Comparison Scheduling",
       "1": "Y Park, H Chung, I Jang",
       "2": "ECML-PKDD, 2026",
-      "3": "https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=1rBh9xkAAAAJ&sortby=pubdate&citation_for_view=1rBh9xkAAAAJ:pqnbT2bcN3wC",
+      "3": "https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=1rBh9xkAAAAJ&sortby=pubdate&citation_for_view=1rBh9xkAAAAJ:rO6llkc54NcC",
+      "4": "2026"
+    },
+    {
+      "0": "RAPID: Layer-Wise Redundancy-Aware Pruning and Importance-Driven Token Merging for Efficient ViT",
+      "1": "K Choi, I Jang",
+      "2": "KDD, 2026",
+      "3": "https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=1rBh9xkAAAAJ&sortby=pubdate&citation_for_view=1rBh9xkAAAAJ:3s1wT3WcHBgC",
       "4": "2026"
     },
     {
@@ -15,38 +43,10 @@
       "4": "2026"
     },
     {
-      "0": "RAPID: Layer-Wise Redundancy-Aware Pruning and Importance-Driven Merging for Efficient Vision Transformers",
-      "1": "K Choi, I Jang",
-      "2": "KDD, 2026",
-      "3": "https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=1rBh9xkAAAAJ&sortby=pubdate&citation_for_view=1rBh9xkAAAAJ:HoB7MX3m0LUC",
-      "4": "2026"
-    },
-    {
       "0": "MetaRanker: Human-in-the-loop Active Ranking for Metalens Image Quality",
       "1": "Y Park, H Chung, I Jang",
       "2": "KDD, 2026",
       "3": "https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=1rBh9xkAAAAJ&sortby=pubdate&citation_for_view=1rBh9xkAAAAJ:M05iB0D1s5AC",
-      "4": "2026"
-    },
-    {
-      "0": "OTCHA: Optimal Transport-driven Confidence-aware Latent Hub Alignment for Multi-View Medical Image Classification",
-      "1": "J Yang, H Chung, I Jang",
-      "2": "arXiv preprint arXiv:2606.19838, 2026",
-      "3": "https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=1rBh9xkAAAAJ&sortby=pubdate&citation_for_view=1rBh9xkAAAAJ:zA6iFVUQeVQC",
-      "4": "2026"
-    },
-    {
-      "0": "Surprise-Guided MergeSort: Budget-Efficient Human-in-the-Loop Ranking via Adaptive Comparison Scheduling",
-      "1": "Y Park, H Chung, I Jang",
-      "2": "arXiv preprint arXiv:2606.15623, 2026",
-      "3": "https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=1rBh9xkAAAAJ&sortby=pubdate&citation_for_view=1rBh9xkAAAAJ:rO6llkc54NcC",
-      "4": "2026"
-    },
-    {
-      "0": "RAPID: Layer-Wise Redundancy-Aware Pruning and Importance-Driven Token Merging for Efficient ViT",
-      "1": "K Choi, I Jang",
-      "2": "arXiv preprint arXiv:2606.08156, 2026",
-      "3": "https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=1rBh9xkAAAAJ&sortby=pubdate&citation_for_view=1rBh9xkAAAAJ:3s1wT3WcHBgC",
       "4": "2026"
     },
     {
